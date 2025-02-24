@@ -1,0 +1,16 @@
+name: stan
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - arviz
+  - matplotlib
+  - cmdstanpy
+  - pandas
+  - scipy
+  - seaborn
+  - statsmodels
+  - polars
+  - pip
+ 
